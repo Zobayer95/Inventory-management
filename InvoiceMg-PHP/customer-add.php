@@ -2,7 +2,7 @@
 
 include('header.php');
 
-?> 
+?>  
  
 <h1>Add Customer</h1>
 <hr>
@@ -101,6 +101,7 @@ include('header.php');
 	include('footer.php');
 
 ?>
+
 
 
 
