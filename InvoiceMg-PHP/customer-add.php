@@ -4,7 +4,7 @@ include('header.php');
   
 ?>        
 <h1>Add Customer</h1>      
-<hr>            
+<hr>             
        
 <div id="response" class="alert alert-success" style="display:none;">    
 	<a href="#" class="close" data-dismiss="alert">&times;</a> 
