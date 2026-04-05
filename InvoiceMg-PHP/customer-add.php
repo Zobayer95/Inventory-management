@@ -8,7 +8,7 @@ include('header.php');
           
 <div id="response" class="alert alert-success" style="display:none;">      
 	<a href="#" class="close" data-dismiss="alert">&times;</a>    
-	<div class="message"></div>
+	<div class="message"></div> 
 </div>
 
 <form method="post" id="create_customer">  
