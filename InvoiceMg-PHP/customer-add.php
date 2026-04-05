@@ -11,7 +11,7 @@ include('header.php');
 	<div class="message"></div>
 </div>
 
-<form method="post" id="create_customer"> 
+<form method="post" id="create_customer">  
 	<input type="hidden" name="action" value="create_customer">
 	<div class="row">
 		<div class="col-xs-6">
